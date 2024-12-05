@@ -5,6 +5,9 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    'dzqtool': "file: ../DZQCommon",
+    "amps": "file: ../amps"
+  }
 }
 

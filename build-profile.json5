@@ -40,6 +40,10 @@
     {
       "name": "dzqTool",
       "srcPath": "./DZQCommon"
+    },
+    {
+      "name": "amps",
+      "srcPath": "./amps",
     }
   ]
 }

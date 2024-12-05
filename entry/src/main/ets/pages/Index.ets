@@ -1,7 +1,17 @@
+import { StringUtil } from 'dzqtool';
+
 @Entry
 @Component
 struct Index {
   @State message: string = 'Hello AdHub';
+
+  aboutToAppear(): void {
+
+    let name : string = 'tom'
+    if (!StringUtil.isEmpty(name)) {
+      console.log(name)
+    }
+  }
 
   build() {
     RelativeContainer() {
