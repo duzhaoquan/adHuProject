@@ -1,0 +1,3 @@
+[submodule "DZQHarUITool"]
+	path = DZQHarUITool
+	url = https://github.com/duzhaoquan/DZQHarUITool.git
